@@ -48,3 +48,8 @@ Date:   Tue Sep 29 16:12:25 2026 +0200
     Création du README
 
 ## Question 3.6
+
+## Question 3.7
+
+## Question 3.8
+
