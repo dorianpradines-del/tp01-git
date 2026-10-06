@@ -52,4 +52,36 @@ Date:   Tue Sep 29 16:12:25 2026 +0200
 ## Question 3.7
 
 ## Question 3.8
+dfe96c0 (HEAD -> main) ...
+0cbd93c Création de l'aide-mémoire Git
+baad2d9 Ajout de l'année scolaire dans le README
+877d6ba Ajout du compte rendu (questions 0 à 3.5)
+c2e3eab Création du README
+f1267b1 Ajout de l'année scolaire dans le README
+79b4146 Création du README
+
+## Question 4.1
+Author: dorianpradines <dorian.pradines@gmail.com>
+Date:   Tue Oct 6 14:14:39 2026 +0200
+
+    Ajout de l'année scolaire dans le README
+
+diff --git a/README.md b/README.md
+new file mode 100755
+index 0000000..4048da5
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++Année scolaire 2026-2027.
+
+## Question 4.2
+git restore a restorer le fichier si on ne lavais pas commit on aurait pas put recuperer le fichier
+
+## Question 4.3
+il est dans les fichier non suivit
+
+## Question 4.4
+
+
+
 
