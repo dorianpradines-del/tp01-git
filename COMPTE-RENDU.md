@@ -82,6 +82,38 @@ il est dans les fichier non suivit
 
 ## Question 4.4
 
+## Question 4.5
+
+## Question 5.4
+Hi dorianpradines-del! You've successfully authenticated, but GitHub does not provide shell access.
+La cle publique sert uniquement a verouillier les donnee et verifier l'identiterr
+
+## Question 6.3
+origin	git@github.com:dorianpradines-del/tp01-git.git (fetch)
+origin	git@github.com:dorianpradines-del/tp01-git.git (push)
+
+
+Énumération des objets: 26, fait.
+Décompte des objets: 100% (26/26), fait.
+Compression par delta en utilisant jusqu'à 12 fils d'exécution
+Compression des objets: 100% (21/21), fait.
+Écriture des objets: 100% (26/26), 3.29 Kio | 841.00 Kio/s, fait.
+Total 26 (delta 6), réutilisés 0 (delta 0), réutilisés du pack 0
+remote: Resolving deltas: 100% (6/6), done.
+To github.com:dorianpradines-del/tp01-git.git
+ * [new branch]      main -> main
+la branche 'main' est paramétrée pour suivre 'origin/main'.
+
+le fichier brouillon texte n'est pas sur github
+
+## Question 6.4
+
+## Question 6.4b
+
+
+
+
+
 
 
 
